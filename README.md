@@ -1,10 +1,14 @@
 
 _                          **      Data-Scraping-with-Selenium-Dynamic-Filtering-using-Streamlit**__
+
+
 _**Introduction*
+
   The Red Bus Project is a web scraping and visualization tool built with Selenium to extract bus information from the RedBus website. It stores the data in a MySQL database and provides an interactive visualization interface using Streamlit. The goal is to deliver insights into bus schedules, prices, ratings, and seat availability.
   
 **
 Technologies Used:**
+
 Selenium: To automate web scraping from RedBus.
 MySQL: As the database for storing the scraped data.
 Streamlit: For creating a web-based interface for visualizing the data.
@@ -12,6 +16,7 @@ Python: For all backend operations, including scraping, data processing, and vis
 
 **
 FEATURES OF APPLICATION**
+
 Retrive the Bus Information:
   Selenium is a powerful tool for automating web browsers, which is especially useful for web scraping tasks. If you want to retrieve bus details from RedBus, 
  you can use Selenium to automate the process of searching for buses and extracting the relevant information. This involves interacting with web elements 
