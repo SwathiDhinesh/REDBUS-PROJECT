@@ -22,8 +22,12 @@ Retrive the Bus Information:
  you can use Selenium to automate the process of searching for buses and extracting the relevant information. This involves interacting with web elements 
  like input fields and buttons, waiting for the page to load, and extracting the desired details from the search results.
  
+ 
 **Store data in database:**
 The collected bus details data was transformed into pandas dataframes. Before that, a new database and tables were created using the MySQL connector. With the help of MySQL, the data was inserted into the respective tables. The database could be accessed and managed in the MySQL environment.
+
+
+
 **
 web app - streamlit:**
 With the help of Streamlit, you can create an interactive application similar to RedBus by designing a user-friendly interface that allows users to search for bus routes, view available buses, and get details like departure times and price.
